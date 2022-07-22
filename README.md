@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse-Portfolio
+# Bug hunt
 
-> This is my first Portfolio website as Microverse student.
+>
 
 
 ## Built With
