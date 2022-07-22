@@ -162,7 +162,7 @@ function GetDatafromLocalStorage(key, value) {
 function UpdateFormDataStorage() {
   const formInputs = document.querySelectorAll(".formdata");
   formData.fullName = formInputs[0].value;
-  formData.email = formInputs[1].value;
+  formData.email = formInputs[0].value;
   formData.message = formInputs[2].value;
   var data = JSON.stringify(formData);
   StoreDataOnLocalStorage("formData", data);
